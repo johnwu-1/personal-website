@@ -22,7 +22,7 @@ toc: false
 - STATS102A: Computational Statistics with R
 - STATS102C: Monte Carlo Methods
 
-## Math
+## Mathematics
 - MATH170E: Probability
 
 ## Management
