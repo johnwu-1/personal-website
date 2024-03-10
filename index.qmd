@@ -1,5 +1,6 @@
 ---
 toc: false
+title: John Wu
 about:
   template: trestles
   links:

@@ -1,5 +1,6 @@
 ---
 toc: false
+title: John Wu
 ---
 
 ## Coursework at University of California, Los Angeles (UCLA)
