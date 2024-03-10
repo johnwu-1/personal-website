@@ -8,9 +8,9 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: Projects.qmd
-        text: Projects
-
+  page-footer:
+    right: "&copy; 2024, John Wu"
+  
 format:
   html:
     theme: cosmo

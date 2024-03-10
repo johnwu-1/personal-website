@@ -15,6 +15,5 @@ about:
 image: profile-picture.jpg
 ---
 
-This is an index page
-
+Attached is my current [CV](/docs/CV/CV.pdf "CV")
 
