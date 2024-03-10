@@ -1,9 +1,7 @@
 ---
 toc: false
-title: John Wu
+title: Coursework at University of California, Los Angeles (UCLA)
 ---
-
-## Coursework at University of California, Los Angeles (UCLA)
 
 ## Economics
 - ECON101: Microeconomic Theory (Intermediate-Part II)
