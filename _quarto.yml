@@ -8,8 +8,6 @@ website:
         text: Home
       - href: coursework.qmd
         text: Academic Experience
-      - href: work.qmd
-        text: Work Experience
   page-footer:
     right: "&copy; 2024, John Wu"
   

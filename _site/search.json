@@ -23,9 +23,9 @@
   {
     "objectID": "coursework.html",
     "href": "coursework.html",
-    "title": "Coursework",
+    "title": "Coursework at University of California, Los Angeles (UCLA)",
     "section": "",
-    "text": "STATS102A: Computational Statistics with R\nSTATS101A: Data Analysis and Regression\nECON104: Data Science for Economists\nSTATS101B: Design and Analysis of Experiment\nECON103: Econometrics\nECON123: Forecasting Exchange Rates and Constructing Currency Portfolios\nECON106V: Investments\nSTATS100C: Linear Models\nECON102: Macroeconomic Theory (Intermediate)\nMGMT122: Management Accounting\nSTATS100B: Mathematical Statistics\nECON101: Microeconomic Theory (Intermediate-Part II)\nECON160: Money and Banking\nSTATS102C: Monte Carlo Methods\nMGMT1A: Principles of Accounting (Financial Accounting)\nMGMT1B: Principles of Accounting (Managerial Accounting)\nMATH170E: Probability\nMGMT170: Real Estate Finance and Investments\nSTATS101C: Statistical Models and Data Mining"
+    "text": "ECON101: Microeconomic Theory (Intermediate-Part II)\nECON102: Macroeconomic Theory (Intermediate)\nECON103: Econometrics\nECON104: Data Science for Economists\nECON106V: Investments\nECON123: Forecasting Exchange Rates and Constructing Currency Portfolios\nECON160: Money and Banking\n\n\n\n\n\nSTATS100B: Mathematical Statistics\nSTATS100C: Linear Models\nSTATS101A: Data Analysis and Regression\nSTATS101B: Design and Analysis of Experiment\nSTATS101C: Statistical Models and Data Mining\nSTATS102A: Computational Statistics with R\nSTATS102C: Monte Carlo Methods\n\n\n\n\n\nMATH170E: Probability\n\n\n\n\n\nMGMT1A: Principles of Accounting (Financial Accounting)\nMGMT1B: Principles of Accounting (Managerial Accounting)\nMGMT122: Management Accounting\nMGMT170: Real Estate Finance and Investments"
   },
   {
     "objectID": "coursework.html#coursework",
@@ -46,6 +46,41 @@
     "href": "coursework.html#university-of-california-los-angeles-ucla",
     "title": "Coursework",
     "section": "",
-    "text": "STATS102A: Computational Statistics with R\nSTATS101A: Data Analysis and Regression\nECON104: Data Science for Economists\nSTATS101B: Design and Analysis of Experiment\nECON103: Econometrics\nECON123: Forecasting Exchange Rates and Constructing Currency Portfolios\nECON106V: Investments\nSTATS100C: Linear Models\nECON102: Macroeconomic Theory (Intermediate)\nMGMT122: Management Accounting\nSTATS100B: Mathematical Statistics\nECON101: Microeconomic Theory (Intermediate-Part II)\nECON160: Money and Banking\nSTATS102C: Monte Carlo Methods\nMGMT1A: Principles of Accounting (Financial Accounting)\nMGMT1B: Principles of Accounting (Managerial Accounting)\nMATH170E: Probability\nMGMT170: Real Estate Finance and Investments\nSTATS101C: Statistical Models and Data Mining"
+    "text": "ECON101: Microeconomic Theory (Intermediate-Part II)\nECON102: Macroeconomic Theory (Intermediate)\nECON103: Econometrics\nECON104: Data Science for Economists\nECON106V: Investments\nECON123: Forecasting Exchange Rates and Constructing Currency Portfolios\nECON160: Money and Banking\nSTATS100B: Mathematical Statistics\nSTATS100C: Linear Models\nSTATS101A: Data Analysis and Regression\nSTATS101B: Design and Analysis of Experiment\nSTATS101C: Statistical Models and Data Mining\nSTATS102A: Computational Statistics with R\nSTATS102C: Monte Carlo Methods\nMATH170E: Probability\nMGMT1A: Principles of Accounting (Financial Accounting)\nMGMT1B: Principles of Accounting (Managerial Accounting)\nMGMT122: Management Accounting\nMGMT170: Real Estate Finance and Investments"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Experience\nUC Investments (The Office of the Chief Investment Officer of the Regents) Oakland, CA\nUC Investments Academy October 2023 - Present Analyze financial statements through core statements, MD&A, footnotes, and ratios for activity, liquidity, coverage, and leverage Determine corporate valuation by public/acquisition comparables, DCF, merger consequences, and leveraged buyouts analysis Used best practices in Excel to construct consistent, efficient, and clear financial models\nUniversity of California, Los Angeles (UCLA) Los Angeles, CA Housing Safety Supervisor March 2023 - July 2023 Responded promptly to and documented reports regarding on-campus housing incidents Delivered effective supervision, training, and scheduling for the Housing Safety Ambassador (HSA) team Performed patrols of on-campus residential buildings, ensuring residents’ well-being and supporting the HSA team during shifts Collaborated closely with campus partners (UCPD, UCLA Fire, LAFD, Residential Life, UCLA EMS, and Community Service Officers)\nHousing Safety Ambassador (HSA) November 2022 - March 2023 Monitored lobby and entrance activity for unusual disturbances Assisted in responding to emergencies and mediated conflicts Ensured proper functioning of access control hardware to maintain a secure environment Demonstrated effective communication skills while interacting with emergency responders and the general public\nOakland Military Institute (OMI) Oakland, CA Inventory and Maintenance Assistant May 2019 - August 2019 Distributed and cataloged an accurate inventory of uniform items, received and verified shipments Allocated supplies for school-wide events, including military parades and summer camps serving 400+ incoming students Handled diverse tasks, including construction, destruction, custodial duties, and large furniture relocation in campus classrooms"
+  },
+  {
+    "objectID": "coursework.html#economics",
+    "href": "coursework.html#economics",
+    "title": "",
+    "section": "Economics",
+    "text": "Economics\n\nECON101: Microeconomic Theory (Intermediate-Part II)\nECON102: Macroeconomic Theory (Intermediate)\nECON103: Econometrics\nECON104: Data Science for Economists\nECON106V: Investments\nECON123: Forecasting Exchange Rates and Constructing Currency Portfolios\nECON160: Money and Banking"
+  },
+  {
+    "objectID": "coursework.html#statistics",
+    "href": "coursework.html#statistics",
+    "title": "",
+    "section": "Statistics",
+    "text": "Statistics\n\nSTATS100B: Mathematical Statistics\nSTATS100C: Linear Models\nSTATS101A: Data Analysis and Regression\nSTATS101B: Design and Analysis of Experiment\nSTATS101C: Statistical Models and Data Mining\nSTATS102A: Computational Statistics with R\nSTATS102C: Monte Carlo Methods"
+  },
+  {
+    "objectID": "coursework.html#math",
+    "href": "coursework.html#math",
+    "title": "",
+    "section": "Math",
+    "text": "Math\n\nMATH170E: Probability"
+  },
+  {
+    "objectID": "coursework.html#management",
+    "href": "coursework.html#management",
+    "title": "",
+    "section": "Management",
+    "text": "Management\n\nMGMT1A: Principles of Accounting (Financial Accounting)\nMGMT1B: Principles of Accounting (Managerial Accounting)\nMGMT122: Management Accounting\nMGMT170: Real Estate Finance and Investments"
   }
 ]

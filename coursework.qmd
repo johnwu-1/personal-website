@@ -1,24 +1,32 @@
 ---
 toc: false
 ---
-# Coursework
-## University of California, Los Angeles (UCLA)
-- STATS102A: Computational Statistics with R
-- STATS101A: Data Analysis and Regression
-- ECON104: Data Science for Economists
-- STATS101B: Design and Analysis of Experiment
-- ECON103: Econometrics
-- ECON123: Forecasting Exchange Rates and Constructing Currency Portfolios
-- ECON106V: Investments
-- STATS100C: Linear Models
-- ECON102: Macroeconomic Theory (Intermediate)
-- MGMT122: Management Accounting
-- STATS100B: Mathematical Statistics
+
+## Coursework at University of California, Los Angeles (UCLA)
+
+## Economics
 - ECON101: Microeconomic Theory (Intermediate-Part II)
+- ECON102: Macroeconomic Theory (Intermediate)
+- ECON103: Econometrics
+- ECON104: Data Science for Economists
+- ECON106V: Investments
+- ECON123: Forecasting Exchange Rates and Constructing Currency Portfolios
 - ECON160: Money and Banking
+
+## Statistics
+- STATS100B: Mathematical Statistics
+- STATS100C: Linear Models
+- STATS101A: Data Analysis and Regression
+- STATS101B: Design and Analysis of Experiment
+- STATS101C: Statistical Models and Data Mining
+- STATS102A: Computational Statistics with R
 - STATS102C: Monte Carlo Methods
+
+## Math
+- MATH170E: Probability
+
+## Management
 - MGMT1A: Principles of Accounting (Financial Accounting)
 - MGMT1B: Principles of Accounting (Managerial Accounting)
-- MATH170E: Probability
+- MGMT122: Management Accounting
 - MGMT170: Real Estate Finance and Investments
-- STATS101C: Statistical Models and Data Mining
