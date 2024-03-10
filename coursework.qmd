@@ -6,28 +6,28 @@ title: Coursework
 ## University of California, Los Angeles (UCLA)
 
 ### Economics
-- ECON101: Microeconomic Theory (Intermediate-Part II)
-- ECON102: Macroeconomic Theory (Intermediate)
-- ECON103: Econometrics
-- ECON104: Data Science for Economists
-- ECON106V: Investments
-- ECON123: Forecasting Exchange Rates and Constructing Currency Portfolios
-- ECON160: Money and Banking
+- ECON 101: Microeconomic Theory (Intermediate-Part II)
+- ECON 102: Macroeconomic Theory (Intermediate)
+- ECON 103: Econometrics
+- ECON 104: Data Science for Economists
+- ECON 106V: Investments
+- ECON 123: Forecasting Exchange Rates and Constructing Currency Portfolios
+- ECON 160: Money and Banking
 
 ### Statistics
-- STATS100B: Mathematical Statistics
-- STATS100C: Linear Models
-- STATS101A: Data Analysis and Regression
-- STATS101B: Design and Analysis of Experiment
-- STATS101C: Statistical Models and Data Mining
-- STATS102A: Computational Statistics with R
-- STATS102C: Monte Carlo Methods
+- STATS 100B: Mathematical Statistics
+- STATS 100C: Linear Models
+- STATS 101A: Data Analysis and Regression
+- STATS 101B: Design and Analysis of Experiment
+- STATS 101C: Statistical Models and Data Mining
+- STATS 102A: Computational Statistics with R
+- STATS 102C: Monte Carlo Methods
 
 ### Mathematics
-- MATH170E: Probability
+- MATH 170E: Probability
 
 ### Management
-- MGMT1A: Principles of Accounting (Financial Accounting)
-- MGMT1B: Principles of Accounting (Managerial Accounting)
-- MGMT122: Management Accounting
-- MGMT170: Real Estate Finance and Investments
+- MGMT 1A: Principles of Accounting (Financial Accounting)
+- MGMT 1B: Principles of Accounting (Managerial Accounting)
+- MGMT 122: Management Accounting
+- MGMT 170: Real Estate Finance and Investments
