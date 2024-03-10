@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 1935f275-6ec2-4b58-9f85-0dbd972ea240
+      url: 'https://johnwu.netlify.app'
