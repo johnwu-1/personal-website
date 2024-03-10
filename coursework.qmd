@@ -1,9 +1,11 @@
 ---
 toc: false
-title: Coursework at University of California, Los Angeles (UCLA)
+title: Coursework
 ---
 
-## Economics
+## University of California, Los Angeles (UCLA)
+
+### Economics
 - ECON101: Microeconomic Theory (Intermediate-Part II)
 - ECON102: Macroeconomic Theory (Intermediate)
 - ECON103: Econometrics
@@ -12,7 +14,7 @@ title: Coursework at University of California, Los Angeles (UCLA)
 - ECON123: Forecasting Exchange Rates and Constructing Currency Portfolios
 - ECON160: Money and Banking
 
-## Statistics
+### Statistics
 - STATS100B: Mathematical Statistics
 - STATS100C: Linear Models
 - STATS101A: Data Analysis and Regression
@@ -21,10 +23,10 @@ title: Coursework at University of California, Los Angeles (UCLA)
 - STATS102A: Computational Statistics with R
 - STATS102C: Monte Carlo Methods
 
-## Mathematics
+### Mathematics
 - MATH170E: Probability
 
-## Management
+### Management
 - MGMT1A: Principles of Accounting (Financial Accounting)
 - MGMT1B: Principles of Accounting (Managerial Accounting)
 - MGMT122: Management Accounting

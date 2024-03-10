@@ -4,41 +4,48 @@
     "href": "index.html",
     "title": "John Wu",
     "section": "",
-    "text": "I am currently a fourth year Economics and Statistics student at University of California, Los Angeles (UCLA).\nHere is my current CV."
+    "text": "I am currently a fourth year Economics and Statistics student at University of California, Los Angeles (UCLA).\nHere is my current CV. (last updated March 10, 2024)"
+  },
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "ECON101: Microeconomic Theory (Intermediate-Part II)\nECON102: Macroeconomic Theory (Intermediate)\nECON103: Econometrics\nECON104: Data Science for Economists\nECON106V: Investments\nECON123: Forecasting Exchange Rates and Constructing Currency Portfolios\nECON160: Money and Banking\n\n\n\n\n\nSTATS100B: Mathematical Statistics\nSTATS100C: Linear Models\nSTATS101A: Data Analysis and Regression\nSTATS101B: Design and Analysis of Experiment\nSTATS101C: Statistical Models and Data Mining\nSTATS102A: Computational Statistics with R\nSTATS102C: Monte Carlo Methods\n\n\n\n\n\nMATH170E: Probability\n\n\n\n\n\nMGMT1A: Principles of Accounting (Financial Accounting)\nMGMT1B: Principles of Accounting (Managerial Accounting)\nMGMT122: Management Accounting\nMGMT170: Real Estate Finance and Investments"
   },
   {
     "objectID": "coursework.html#economics",
     "href": "coursework.html#economics",
-    "title": "Coursework at University of California, Los Angeles (UCLA)",
-    "section": "",
-    "text": "ECON101: Microeconomic Theory (Intermediate-Part II)\nECON102: Macroeconomic Theory (Intermediate)\nECON103: Econometrics\nECON104: Data Science for Economists\nECON106V: Investments\nECON123: Forecasting Exchange Rates and Constructing Currency Portfolios\nECON160: Money and Banking"
+    "title": "Coursework",
+    "section": "Economics",
+    "text": "Economics\n\nECON101: Microeconomic Theory (Intermediate-Part II)\nECON102: Macroeconomic Theory (Intermediate)\nECON103: Econometrics\nECON104: Data Science for Economists\nECON106V: Investments\nECON123: Forecasting Exchange Rates and Constructing Currency Portfolios\nECON160: Money and Banking"
   },
   {
     "objectID": "coursework.html#statistics",
     "href": "coursework.html#statistics",
-    "title": "Coursework at University of California, Los Angeles (UCLA)",
+    "title": "Coursework",
     "section": "Statistics",
     "text": "Statistics\n\nSTATS100B: Mathematical Statistics\nSTATS100C: Linear Models\nSTATS101A: Data Analysis and Regression\nSTATS101B: Design and Analysis of Experiment\nSTATS101C: Statistical Models and Data Mining\nSTATS102A: Computational Statistics with R\nSTATS102C: Monte Carlo Methods"
   },
   {
     "objectID": "coursework.html#mathematics",
     "href": "coursework.html#mathematics",
-    "title": "Coursework at University of California, Los Angeles (UCLA)",
+    "title": "Coursework",
     "section": "Mathematics",
     "text": "Mathematics\n\nMATH170E: Probability"
   },
   {
     "objectID": "coursework.html#management",
     "href": "coursework.html#management",
-    "title": "Coursework at University of California, Los Angeles (UCLA)",
+    "title": "Coursework",
     "section": "Management",
     "text": "Management\n\nMGMT1A: Principles of Accounting (Financial Accounting)\nMGMT1B: Principles of Accounting (Managerial Accounting)\nMGMT122: Management Accounting\nMGMT170: Real Estate Finance and Investments"
   },
   {
-    "objectID": "coursework.html",
-    "href": "coursework.html",
-    "title": "Coursework at University of California, Los Angeles (UCLA)",
+    "objectID": "coursework.html#university-of-california-los-angeles-ucla",
+    "href": "coursework.html#university-of-california-los-angeles-ucla",
+    "title": "Coursework",
     "section": "",
-    "text": "ECON101: Microeconomic Theory (Intermediate-Part II)\nECON102: Macroeconomic Theory (Intermediate)\nECON103: Econometrics\nECON104: Data Science for Economists\nECON106V: Investments\nECON123: Forecasting Exchange Rates and Constructing Currency Portfolios\nECON160: Money and Banking"
+    "text": "ECON101: Microeconomic Theory (Intermediate-Part II)\nECON102: Macroeconomic Theory (Intermediate)\nECON103: Econometrics\nECON104: Data Science for Economists\nECON106V: Investments\nECON123: Forecasting Exchange Rates and Constructing Currency Portfolios\nECON160: Money and Banking\n\n\n\n\n\nSTATS100B: Mathematical Statistics\nSTATS100C: Linear Models\nSTATS101A: Data Analysis and Regression\nSTATS101B: Design and Analysis of Experiment\nSTATS101C: Statistical Models and Data Mining\nSTATS102A: Computational Statistics with R\nSTATS102C: Monte Carlo Methods\n\n\n\n\n\nMATH170E: Probability\n\n\n\n\n\nMGMT1A: Principles of Accounting (Financial Accounting)\nMGMT1B: Principles of Accounting (Managerial Accounting)\nMGMT122: Management Accounting\nMGMT170: Real Estate Finance and Investments"
   }
 ]
