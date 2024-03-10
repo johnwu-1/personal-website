@@ -1,5 +1,18 @@
 ---
 toc: false
+about:
+  template: trestles
+  links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/john-wu1/
+        - icon: github
+          text: Github
+          url: https://github.com/johnwu-1
+        - icon: inbox-fill
+          text: Email
+          url: "mailto:jwu2002@g.ucla.edu"
+image: profile-picture.jpg
 ---
 
 This is an index page
