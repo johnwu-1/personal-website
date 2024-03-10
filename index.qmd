@@ -19,5 +19,5 @@ image: profile-picture.jpg
 
 I am currently a fourth year Economics and Statistics student at University of California, Los Angeles (UCLA). 
 
-Attached is my current [CV](/docs/CV/CV.pdf "CV")
+Here is my current [CV](/docs/CV/CV.pdf "CV").
 
