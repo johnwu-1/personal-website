@@ -1,5 +1,7 @@
-## John Wu
+---
+toc: false
+---
+
+This is an index page
 
 
-
-# test

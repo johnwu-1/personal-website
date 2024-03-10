@@ -4,13 +4,20 @@
     "href": "Projects.html",
     "title": "",
     "section": "",
-    "text": "About this site"
+    "text": "This is a projects page"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "",
     "section": "",
-    "text": "About this site"
+    "text": "This is an about page"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "This is an index page"
   }
 ]
